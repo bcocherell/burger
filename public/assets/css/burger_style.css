@@ -1,20 +1,27 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
+body {
+  background-color: #fe7f01;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.burger {
+  padding: 8px 0;
+  background: #faebd7;
+}
   
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
-  
+.img-responsive {
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+#bn {
+  max-width: 200px;
+  margin: 0px auto 10px auto;
+}

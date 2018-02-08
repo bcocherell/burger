@@ -1,3 +1,4 @@
-insert into burgers (burger_name) values ('Mission A-Corn-Plished Burger');
-insert into burgers (burger_name) values ('Foot Feta-ish Burger');
-insert into burgers (burger_name) values ('New Bacon-ings Burger');
+insert into burgers (burger_name) values ('mission a-corn-plished burger');
+insert into burgers (burger_name) values ('foot feta-ish burger');
+insert into burgers (burger_name) values ('new bacon-ings burger');
+insert into burgers (burger_name) values ('chorizo your own adventure burger');

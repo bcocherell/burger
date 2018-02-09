@@ -1,7 +1,7 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
+  "description": "eat-da-burger coding bootcamp assignment",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bcocherell/burger.git"
   },
-  "author": "BDC",
+  "author": "bdc",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bcocherell/burger/issues"

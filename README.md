@@ -16,8 +16,6 @@ If running locally...
 
 ## Instructions
 
-Honestly this is pretty self explanitory...
-
 - Whenever a user submits a burger's name (using the form at the bottom of the page,) the app will display the burger on the left side of the page -- waiting to be devoured.
 - Each burger in the waiting area also has a 'Devour it!' button. When you click one, the burger will move to the right side of the page.
 - The app will store every burger in a database, whether devoured or not.
